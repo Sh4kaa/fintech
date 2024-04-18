@@ -79,6 +79,7 @@ ul {
   gap: var(--gap);
 }
 
+/* venda */
 .resumo {
   font-size: 1.5rem;
   font-weight: 600;
@@ -88,4 +89,23 @@ ul {
   font-size: 1.5rem;
   margin-bottom: var(--gap);
   color: var(--color-1);
+}
+
+/* venda */
+
+.venda {
+  display: grid;
+  grid-template-columns: auto auto 1fr;
+  gap: var(--gap);
+  margin-bottom: var(--gap-s);
+  align-items: center;
+}
+
+.venda div:last-child {
+  justify-self: end;
+}
+
+.venda a {
+  text-decoration: none;
+  color: inherit;
 }

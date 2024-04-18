@@ -11,8 +11,9 @@ interface IDataContext {
   setFinal: React.Dispatch<React.SetStateAction<string>>;
 }
 
-interface IVenda {
+export interface IVenda {
   id: string;
+  nome: string;
   preco: number;
   status: "processando" | "pago" | "falha";
   pagamento: "boleto" | "cartao" | "pix";
