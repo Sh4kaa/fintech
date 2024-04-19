@@ -12,7 +12,7 @@ function useFetch<T>(url: RequestInfo | URL, options?: RequestInit) {
     const controller = new AbortController();
     const { signal } = controller;
     const fetchData = async () => {
-      setLoading(false);
+      setLoading(true);
       setData(null);
       try {
         const response = await fetch(url, { signal, ...refOptions.current });

@@ -5,7 +5,7 @@ import { DataContextProvider } from "./Context/DataContext";
 import Resumo from "./Pages/Resumo";
 import Vendas from "./Pages/Vendas";
 import "./Style.css";
-import Venda from "./Components/Sale";
+import Venda from "./Pages/Venda";
 
 function App() {
   return (
