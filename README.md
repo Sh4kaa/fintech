@@ -35,7 +35,7 @@ https://recharts.org/en-US/
 git clone https://github.com/Sh4kaa/fintech.git
 ```
 
-2 - Navegue a até a pasta do projeto e instale as dependâncias
+2 - Navegue a até a pasta do projeto e instale as dependências
 ```
 cd fintech
 ```
@@ -74,10 +74,10 @@ Se você deseja contribuir para o projeto, siga estas etapas:
 
 ## 📄 Licença
 
-![GitHub License](https://img.shields.io/github/license/Sh4kaa/fintech)
+![GitHub License](https://img.shields.io/github/license/Sh4kaa/fintech?logo=github&logoSize=auto&labelColor=4B0082)
+## Links
+![GitHub followers](https://img.shields.io/github/followers/Sh4kaa)
+![Github stars](https://img.shields.io/github/stars/Sh4kaa/fintech)
 
-
-
----
 
 
