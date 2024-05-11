@@ -78,6 +78,8 @@ Se você deseja contribuir para o projeto, siga estas etapas:
 ## Links
 ![GitHub followers](https://img.shields.io/github/followers/Sh4kaa)
 ![Github stars](https://img.shields.io/github/stars/Sh4kaa/fintech)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/Sh4kaa/fintech/main)
+
 
 
 
