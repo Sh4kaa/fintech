@@ -1,30 +1,82 @@
-# React + TypeScript + Vite
+<h1 align="center">Fintech</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<div align="center">
+  <strong>🚀 Descrição 📚</strong>
+</div>
 
-## Expanding the ESLint configuration
+<div align="center">
+  <p>Este é um projeto de uma dashboard desenvolvida com React, Vite e typescript. O projeto é de um curso React + typescript onde o intuito do curso é demonstrar a utilização de typescript com react</p>
+  </p>
+</div>
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## 🔭 Visão Geral
 
-- Configure the top-level `parserOptions` property like this:
+Nesse projeto estamos consumindo um API fictícia de vendas, onde inicialmente buscamos as vendas dos últimos 3 meses, é possivel também realizar filtro de busca baseado em datas, utilizamos uma biblioteca de gráficos chamada Rechart. Os botões funcionais são apenas os botões de "resumo" e de "vendas" os demais são meramente ilustrativos. A API utilizada foi "https://data.origamid.dev/vendas"
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
+## 💻 Tecnologias
+
+- ReactJS
+- Typescript
+- Recharts
+
+https://recharts.org/en-US/
+
+## ⚙️ Configuração do Ambiente
+- Pré-requisitos: <br>
+✅ Node 20+ </br>
+✅ Npm (já vem com o node) ou yarn
+
+- Instalação de dependências </br>
+
+1 - Clone o repositório
+```
+git clone https://github.com/Sh4kaa/fintech.git
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+2 - Navegue a até a pasta do projeto e instale as dependâncias
+```
+cd fintech
+```
+```
+npm install
+```
+ou
+```
+cd fintech
+```
+```
+yarn install
+```
+## 🤝 Como Contribuir
+
+Se você deseja contribuir para o projeto, siga estas etapas:
+
+1. Faça um fork do repositório e clone-o em sua máquina local.
+2. Crie uma nova branch para suas modificações:
+   ```
+   git checkout -b minha-branch
+   ```
+3. Faça as modificações desejadas e adicione-as ao stage:
+   ```
+   git add .
+   ```
+4. Faça um commit das suas alterações:
+   ```
+   git commit -m "Minhas modificações"
+   ```
+5. Envie suas alterações para o repositório remoto:
+   ```
+   git push origin minha-branch
+   ```
+6. Abra um pull request para que suas modificações sejam revisadas e incorporadas ao projeto.
+
+## 📄 Licença
+
+![GitHub License](https://img.shields.io/github/license/sh4kaa/fintech)
+
+
+---
+
+
