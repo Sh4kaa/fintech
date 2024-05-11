@@ -74,7 +74,8 @@ Se você deseja contribuir para o projeto, siga estas etapas:
 
 ## 📄 Licença
 
-![GitHub License](https://img.shields.io/github/license/sh4kaa/fintech)
+![GitHub License](https://img.shields.io/github/license/Sh4kaa/fintech)
+
 
 
 ---
