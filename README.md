@@ -3,10 +3,6 @@
 
 
 <div align="center">
-  <strong>🚀 Descrição 📚</strong>
-</div>
-
-<div align="center">
   <p>Este é um projeto de uma dashboard desenvolvida com React, Vite e typescript. O projeto é de um curso React + typescript onde o intuito do curso é demonstrar a utilização de typescript com react</p>
   </p>
 </div>
